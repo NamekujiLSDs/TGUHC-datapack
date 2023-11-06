@@ -14,6 +14,10 @@
         "tguhc:smel_em",
         "tguhc:smel_deep_em",
         "tguhc:smel_nez_gold",
-        "tguhc:smel_nez_quartz"
+        "tguhc:smel_nez_quartz",
+        "tguhc:smel_deep_copper",
+        "tguhc:smel_copper",
+        "tguhc:smel_coal",
+        "tguhc:smel_deep_coal"
     ]
 }
