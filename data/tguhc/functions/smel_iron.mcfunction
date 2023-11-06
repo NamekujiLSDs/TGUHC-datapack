@@ -1,2 +1,2 @@
-execute at @e[type=item,nbt={Item: {id: "minecraft:iron_ore"}}] run summon minecraft:item ~ ~ ~ {Item: {id: "minecraft:iron_ingot", Count: 1b}}
+execute at @e[type=item,nbt={Item: {id: "minecraft:iron_ore"}}] run summon minecraft:item ~ ~1 ~ {Item: {id: "minecraft:iron_ingot", Count: 1b}}
 execute at @e[type=item,nbt={Item: {id: "minecraft:iron_ore"}}] run kill @e[type=item,nbt={Item: {id: "minecraft:iron_ore"}}]
