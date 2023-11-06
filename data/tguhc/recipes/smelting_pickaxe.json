@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "CRC",
+        " R "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:raw_iron"
+        },
+        "C": {
+            "item": "minecraft:coal"
+        },
+        "R": {
+            "item": "minecraft:raw_copper"
+        }
+    },
+    "result": {
+        "item": "minecraft:light",
+        "count": 1
+    }
+}

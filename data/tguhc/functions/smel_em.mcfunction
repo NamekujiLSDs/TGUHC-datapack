@@ -1,0 +1,2 @@
+execute at @e[type=item,nbt={Item: {id: "minecraft:emerald_ore"}}] run summon minecraft:item ~ ~ ~ {Item: {id: "minecraft:emerald", Count: 1b}}
+execute at @e[type=item,nbt={Item: {id: "minecraft:emerald_ore"}}] run kill @e[type=item,nbt={Item: {id: "minecraft:emerald_ore"}}]

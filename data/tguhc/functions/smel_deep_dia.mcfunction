@@ -1,0 +1,2 @@
+execute at @e[type=item,nbt={Item: {id: "minecraft:deepslate_diamond_ore"}}] run summon minecraft:item ~ ~ ~ {Item: {id: "minecraft:diamond", Count: 1b}}
+execute at @e[type=item,nbt={Item: {id: "minecraft:deepslate_diamond_ore"}}] run kill @e[type=item,nbt={Item: {id: "minecraft:deepslate_diamond_ore"}}]

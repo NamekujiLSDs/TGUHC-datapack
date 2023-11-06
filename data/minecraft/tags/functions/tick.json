@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "values": [
+        "tguhc:smel_iron",
+        "tguhc:smel_deep_iron",
+        "tguhc:smel_gold",
+        "tguhc:smel_deep_gold",
+        "tguhc:smel_dia",
+        "tguhc:smel_deep_dia",
+        "tguhc:smel_rs",
+        "tguhc:smel_deep_rs",
+        "tguhc:smel_lap",
+        "tguhc:smel_deep_lap",
+        "tguhc:smel_em",
+        "tguhc:smel_deep_em",
+        "tguhc:smel_nez_gold",
+        "tguhc:smel_nez_quartz"
+    ]
+}
