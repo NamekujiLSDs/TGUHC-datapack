@@ -20,6 +20,6 @@
         }
     },
     "rewards": {
-        "function": "tguhc:get_smelting_pickaxe"
+        "function": "tguhc:advanced_bow"
     }
 }
