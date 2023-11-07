@@ -1,9 +1,9 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:wooden_pickaxe"
+            "item": "minecraft:bow"
         },
-        "title": "Smelting Pickaxe",
+        "title": "AdvancedBow",
         "description": 255,
         "background": "red",
         "frame": "challenge",
@@ -15,7 +15,7 @@
         "requirement": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "tguhc:smelting_pickaxe"
+                "recipe": "tguhc:advanced_bow"
             }
         }
     },
