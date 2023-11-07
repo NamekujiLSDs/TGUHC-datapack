@@ -1,5 +1,6 @@
 {
     "smelting.pickaxe": "精錬ピッケル",
     "smelting.pickaxe.description": "鉱石が自動で精錬されます",
-    "block.minecraft.light": "精錬ピッケル"
+    "block.minecraft.light": "精錬ピッケル",
+    "tguhc.recipebook": "- カスタムレシピ一覧 -"
 }

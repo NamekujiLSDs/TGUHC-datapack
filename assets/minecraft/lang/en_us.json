@@ -1,5 +1,6 @@
 {
     "smelting.pickaxe": "Smelting Pickaxe",
     "smelting.pickaxe.description": "Get ore in a smelting state when mining.",
-    "block.minecraft.light": "Smelting Pickaxe"
+    "block.minecraft.light": "Smelting Pickaxe",
+    "tguhc.recipebook": "- Recipe Book -"
 }

@@ -1,0 +1,85 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/raw_copper.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/raw_iron.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/coal.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/smelpick.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/air.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ltr.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/stick.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/string.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/smelpick.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE009"
+            ]
+        }
+    ]
+}
