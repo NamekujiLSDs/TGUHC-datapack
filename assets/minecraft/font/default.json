@@ -29,6 +29,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/raw_gold.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/smelpick.png",
             "ascent": 8,
             "height": 16,

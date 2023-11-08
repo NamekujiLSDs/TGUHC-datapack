@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#n#",
+        "/E/",
+        "QAQ"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        },
+        "A": {
+            "item": "minecraft:armor_stand"
+        }
+    },
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    }
+}
