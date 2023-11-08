@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 8,
-    "description": "For 1.18.x"
+    "pack_format": 15,
+    "description": "For 1.20.1"
   }
 }
