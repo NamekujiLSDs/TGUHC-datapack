@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "BDB",
+        "QBQ"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "item": "minecraft:angler_pottery_sherd",
+        "count": 1
+    }
+}
