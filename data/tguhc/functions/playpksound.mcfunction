@@ -1,2 +1,1 @@
-playsound minecraft:entity.wolf.howl player @s
-tell @s "a"D
+playsound minecraft:entity.wolf.howl player @s ~ ~ ~ 0.5

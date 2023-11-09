@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wolf_spawn_egg"
+        },
+        "title": "Whoooooo",
+        "description": 255,
+        "background": "red",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecraft:beacon"
+            }
+        }
+    },
+    "rewards": {
+        "function": "tguhc:playpksound"
+    }
+}
