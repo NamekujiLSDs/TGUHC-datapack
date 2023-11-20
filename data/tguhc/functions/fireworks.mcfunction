@@ -1,0 +1,1 @@
+playsound entity.firework_rocket.blast_far master @a

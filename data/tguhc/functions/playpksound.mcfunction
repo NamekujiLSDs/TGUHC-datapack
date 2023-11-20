@@ -1,1 +1,2 @@
-playsound minecraft:entity.wolf.howl player @s ~ ~ ~ 0.5
+playsound minecraft:entity.wolf.howl ambient @s
+advancement revoke @s only tguhc:pks
