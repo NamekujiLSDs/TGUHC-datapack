@@ -3,4 +3,4 @@ title @a times 1s 6s 1s
 say !! @a[tag=alive] is WINNER !!
 tag @a add alive
 tp @a 0 0 0
-function tguhc:fireworks
+function tguhc:gamesys/fireworks

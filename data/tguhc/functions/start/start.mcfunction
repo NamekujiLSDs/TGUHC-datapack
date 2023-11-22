@@ -21,4 +21,17 @@ scoreboard objectives setdisplay sidebar Info
 scoreboard objectives remove Death
 scoreboard objectives add Death deathCount
 
+#ゲームルールを判断するためのスコアボード
+function tguhc:start/daynight
+function tguhc:start/mobspawn
+function tguhc:start/nametag
+function tguhc:start/falldamage
+function tguhc:start/maptype
+
+#全員を同じチームに参加させる / ネームタグ非表示のため
+team remove Nametag
+team add Nametag
+team join Nametag @a
+
+
 tag @a[gamemode=adventure] add alive

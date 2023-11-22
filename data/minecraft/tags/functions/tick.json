@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "tguhc:killtick",
-        "tguhc:playerlefttick"
+        "tguhc:gamesys/killtick",
+        "tguhc:gamesys/playerlefttick"
     ]
 }
