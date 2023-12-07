@@ -1,0 +1,1 @@
+execute as @e[tag=Gametimer] run execute if score @s start matches 1 run execute if score @s Timer matches 

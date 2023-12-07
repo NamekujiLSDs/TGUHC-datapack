@@ -2,6 +2,8 @@
     "replace": false,
     "values": [
         "tguhc:gamesys/killtick",
-        "tguhc:gamesys/playerlefttick"
+        "tguhc:gamesys/playerlefttick",
+        "tguhc:gamesys/dead",
+        "tguhc:gamesys/timer"
     ]
 }
